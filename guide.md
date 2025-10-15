@@ -1,0 +1,2 @@
+# Ideas
+Plan oncall shifts
